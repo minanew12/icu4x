@@ -20,8 +20,6 @@ For an introduction to the project, please visit the ["Introduction to ICU4X for
 
 For technical information on how to use ICU4X, visit our [API docs (latest stable)](https://docs.rs/icu/latest/) or [API docs (tip of main)](https://unicode-org.github.io/icu4x/rustdoc/icu/).
 
-More information about the project can be found in [the documents subdirectory](documents/README.md).
-
 ## Quick Start
 
 An example `ICU4X` powered application in Rust may look like below...
